@@ -119,16 +119,7 @@
                             <a href="https://en.wikipedia.org/wiki/File:Mohamed_Salah_2017.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Mohamed_Salah_2017.jpg/170px-Mohamed_Salah_2017.jpg" decoding="async" width="170" height="255" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Mohamed_Salah_2017.jpg/255px-Mohamed_Salah_2017.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Mohamed_Salah_2017.jpg/340px-Mohamed_Salah_2017.jpg 2x" data-file-width="551" data-file-height="826"></a>
                         </div>
                     </div>
-                </div>
-                
-
-                
-
-                
-
-               
-
-                
+                </div> 
             </div>
         </div>
     </div>
