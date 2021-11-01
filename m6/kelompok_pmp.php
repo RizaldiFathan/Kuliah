@@ -1,3 +1,10 @@
+<!-- kel 8
+558 dinar purnomo
+566 julianto aji pamungkas
+568 badi fathur
+591 rizaldi
+601 baihaqi
+415 ahmad kurniawan -->
 
 <!doctype html>
 <html lang="en">
@@ -8,19 +15,28 @@
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    
+    <!-- CSS -->
     <link rel="stylesheet" href="style.css">
-    <title>Hello, world!</title>
+
+    <!-- Logo Tab -->
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+
+    <title>Kelompok 8</title>
   </head>
   <body>
     <div class="container-fluid">
         <div class="row text-center">
+            <!-- Frame 1 -->
             <div class="title">
                 <div class="col">
                     <h1>mohamed salah</h1>
                 </div>
             </div>
+            <!-- End-Frame 1 -->
         </div>
         <div class="row content">
+            <!-- Frame 2 -->
             <div class="col-md-3 card-left pb-5">
                 <div class="container-fluid sticky-xl-top pt-5">
                 <form action="">
@@ -71,6 +87,8 @@
                 </footer>
                 </div>
             </div>
+            <!-- End-Frame 2 -->
+            <!-- Frame 3 -->
             <div class="col-md-9 p-5 card-right">
                 <h1>Mohamed Salah</h1>
                 <div class="container mt-4">
@@ -121,6 +139,7 @@
                     </div>
                 </div> 
             </div>
+            <!-- End-Frame 3 -->
         </div>
     </div>
 
