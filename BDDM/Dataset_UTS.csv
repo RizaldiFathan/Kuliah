@@ -1,0 +1,9 @@
+NPM,Nama,Jenis_Kelamin,Jenis_Sekolah_Lanjutan,Status_SMA/K,IPK_Sem_1,IPK_Sem_2,Status kelulusan
+1901,Soplo,L,SMK,S,3,2,Tepat
+1902,Sopli,L,SMA,N,2,2,Tidak
+1903,,L,SMA,S,2.5,3,Tidak
+1904,Soplu,P,SMA,N,3.1,3.1,Tepat
+1905,Soplo,,SMK,N,2,3.1,Tidak
+1906,Sopli,L,SMA,S,2,2,Tidak
+1907,Sopla,L,SMA,S,,2,Tepat
+1908,Soplu,P,SMA,N,,3,Tepat
